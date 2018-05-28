@@ -1,2 +1,2 @@
 # Mmall
-电商项目
+happyMall 前端
